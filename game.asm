@@ -24,22 +24,24 @@
 # 4. Different levels
 # 5. Pick-up effects
 # 	- slow down time
-#	- speed up time
-#	- increment score
+#	  - speed up time
+#	  - increment score
 # 	- go to next level
-#	- win the game
-#	- climb rope (vertical movement)
+#	  - win the game
+#	  - climb rope (vertical movement)
 #
 # Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
+# - https://www.youtube.com/watch?v=suKpPN0_ox0&ab_channel=HenryTran (insert YouTube / MyMedia / other URL here). Make sure we can view it!
 #
 # Are you OK with us sharing the video with people outside course staff?
 # - yes, and please share this project github link as well!
+# - https://github.com/hoomji/B58-Assembly-Project/tree/main
 #
 # Any additional information the TA needs to know: 
 # - (write here, if any)
 # - do not reset the level manual without going to the game over screen first by dying 
 # - not meant to be able to reset after you win the game
+# - bug with the ropes, don't try to go through the ropes
 #
 #################################################################################
 
